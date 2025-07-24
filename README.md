@@ -1,1 +1,1 @@
-# Excel-Project
+This project presents an interactive Excel Dashboard built to analyze the sales performance of S.A Store in the year 2022. The dashboard offers insights into orders, sales, customer demographics, product categories, and channels.# Excel-Project
